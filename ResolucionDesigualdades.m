@@ -26,6 +26,7 @@ plot(x,y,'ro-')
 plot(x,sign(y)*5,'bs-')
 title( "(x<7-)")
 
+
 % solucion de inecuaciones de segundo grado
 disp('Solucion de la inecuacion de segundo grado');
 disp('(x^2+6<6,x,)')
