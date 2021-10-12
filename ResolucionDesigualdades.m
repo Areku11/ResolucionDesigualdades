@@ -30,6 +30,7 @@ plot(x,y,'ro-')
 plot(x,sign(y)*5,'bs-')
 title( "(x<7-)")
 
+
 % solucion de inecuaciones de segundo grado
 i_segundo_grado = ' ax^2+bx+c>0 ';
 i_segundo_grado2 = ' ax^2+bx+c<0 ';
