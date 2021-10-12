@@ -2,7 +2,7 @@
 % Title               :Solucion de inecuaciones
 % Descripcion         :Scrip para resolver inecuaciones de 
 %                     :primer grado,segundo grado y valor absoluto
-% Author              :Bryan Abner Garcia Cruz, Cruz Cruz Ximena Mayleth
+% Author              :Bryan Abner Garcia Cruz, Cruz Cruz Ximena Mayleth, Alexandro Pérez Aguirre
 % Date                :202123180
 % Version             :1
 % Usage               :octave> /path/ResolucionDesigualdades
@@ -12,7 +12,7 @@
 pkg load symbolic
 
 %Se llama inecuacion a una desigualdad que contiene variables cambiando el = por un <, >, >=, <=;
-inecuaciones_primer_grado = 'Son aquellas que pueden expresar de la forma ax+b=0 , siendo a y b numero reales; 
+inecuaciones_primer_grado = 'Son aquellas que pueden expresar de la forma ax+b=0 , siendo a y b numero reales´; 
 inecuaciones_segundo_grado  = ' Se pueden expresar de la siguiente forma ax^2+bx+c>0 ';
 inecuaciones_con_valor_absoluto = ' Se pueden expresar de la forma |x|<0 ';
 
