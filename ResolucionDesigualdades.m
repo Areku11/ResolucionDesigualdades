@@ -2,7 +2,7 @@
 % Title               :Solucion de inecuaciones
 % Descripcion         :Scrip para resolver inecuaciones de 
 %                     :primer grado,segundo grado y valor absoluto
-% Author              :Bryan Abner Garcia Cruz, Cruz Cruz Ximena Mayleth
+% Author              :Bryan Abner Garcia Cruz, Cruz Cruz Ximena Mayleth, Alexandro Pérez Aguirre
 % Date                :202123180
 % Version             :1
 % Usage               :octave> /path/ResolucionDesigualdades
