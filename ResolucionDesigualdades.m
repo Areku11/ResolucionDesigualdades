@@ -38,6 +38,7 @@ ezplot((x)^2,y)
 
 
 
+
 % solucion de inecuaciones de valor absoluto
 disp('Solucion de la inecuacion de valor absoluto');
 disp("|x+8|<3")
