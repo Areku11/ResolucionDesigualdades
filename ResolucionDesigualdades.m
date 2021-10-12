@@ -26,6 +26,7 @@ plot(x,y,'ro-')
 plot(x,sign(y)*5,'bs-')
 title( "(x<7-)")
 
+
 % solucion de inecuaciones de segundo grado
 disp('Solucion de la inecuacion de segundo grado');
 disp('(x^2+6<6,x,)')
@@ -64,4 +65,3 @@ plot([0 0],[-15 15],'k-',"linewidth",5)
 plot(x,sign(y)*5,'bs-',"markersize",12)
 xlabel("Eje X","fontsize",20)
 title( "Intervalo de  (-5,oo)")
-
